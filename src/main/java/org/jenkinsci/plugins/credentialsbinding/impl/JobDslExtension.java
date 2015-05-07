@@ -1,9 +1,9 @@
 package org.jenkinsci.plugins.credentialsbinding.impl;
 
 import hudson.Extension;
-import javaposse.jobdsl.dsl.DslExtensionMethod;
 import javaposse.jobdsl.dsl.helpers.wrapper.WrapperContext;
 import javaposse.jobdsl.plugin.ContextExtensionPoint;
+import javaposse.jobdsl.plugin.DslExtensionMethod;
 import org.jenkinsci.plugins.credentialsbinding.MultiBinding;
 
 import java.util.ArrayList;
